@@ -1,3 +1,4 @@
+#Use base class constructor and inheritance to display a book detail 
 class Publisher:
     def __init__(self, name):
         self.name = name
