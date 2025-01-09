@@ -1,3 +1,4 @@
+#Python program to find the square of N numbers 
 list=[]
 n=int(input('Enter the no of elements:'))
 print('Elements are:')
