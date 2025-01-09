@@ -1,3 +1,4 @@
+#Accept a list of words and return length of longest word. 
 list=[]
 n=int(input("enter the limit:"))
 for i in range(0,n):
