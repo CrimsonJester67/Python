@@ -1,3 +1,4 @@
+#First and last character exchange in a string 
 str=input('Enter a string:')
 f=str[0] 
 l=str[-1]
