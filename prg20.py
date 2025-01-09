@@ -1,3 +1,4 @@
+#Sort dictionary in ascending and descending order 
 n=int(input("Enter the number of key value pairs in the dictionary:"))
 dict={}
 for i in range(n):
