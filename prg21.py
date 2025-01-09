@@ -1,3 +1,4 @@
+#Merge two dictionaries 
 n1=int(input("ENter the number of key value pairs in first dictionary:"))
 dict1={}
 for i in range(n1):
