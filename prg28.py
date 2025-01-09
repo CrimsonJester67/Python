@@ -1,3 +1,4 @@
+#Read each row from a CSV file and print the list of string 
 import csv 
 csvfile=open('example.csv','w',newline='')
 writer=csv.writer(csvfile)
