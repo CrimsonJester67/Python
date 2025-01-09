@@ -1,3 +1,4 @@
+#Find the sum of all items in a list 
 list=[]
 n=int(input("enter the limit:"))
 for i in range(0,n):
