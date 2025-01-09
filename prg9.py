@@ -1,3 +1,4 @@
+#Store a list of first names. Count the occurrences of ‘a’ within the list 
 list=[]
 n=int(input('Enter the Limit:'))
 for i in range(0,n):
