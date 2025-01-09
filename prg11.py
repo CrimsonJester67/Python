@@ -1,3 +1,4 @@
+#From a list of integers, create a list removing even numbers 
 list=[]
 n=int(input("Enter the no of elements:"))
 print("numbers are:")
