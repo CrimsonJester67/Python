@@ -1,3 +1,4 @@
+#Generate positive list of numbers from a given list of integers 
 list=[]
 n=int(input('Enter the no of elements:'))
 print('Elements are:')
