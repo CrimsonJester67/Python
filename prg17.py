@@ -1,3 +1,4 @@
+#Generate fibonnaci series of N terms 
 n=int(input("enter the limit:"))
 a=0
 b=1
