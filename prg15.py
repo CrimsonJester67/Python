@@ -1,3 +1,4 @@
+#Generate all factors of a number. 
 n=int(input("enter a number:"))
 print("factors of",n,"are:")
 for i in range(1,n):
