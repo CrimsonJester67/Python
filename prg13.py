@@ -1,3 +1,4 @@
+#Read two list ,print out all colors from colorlist1 not contained in colorlist2 
 list1=[]
 list2=[]
 n=int(input("enter the no.of colours in list 1:"))
