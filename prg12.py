@@ -1,3 +1,4 @@
+#Check whether the list are same length, same sum, any value occur in both 
 list_1=input("Enter the first list of integers(seperated by comma):")
 list1=[int(x) for x in list_1.split(',')]
 list_2=input("Enter the second list of integers(seperated by comma):")
