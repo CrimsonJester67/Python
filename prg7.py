@@ -1,3 +1,4 @@
+#Count the occurances of each word in a line of text 
 str=input('Enter the String:')
 search=input('Enter the element to be searched:')
 x=str.split(" ")
