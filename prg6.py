@@ -1,4 +1,4 @@
-ist=[]
+list=[]
 n=int(input('Enter the no of elements:'))
 print('Elements are:')
 for i in range (0,n):
