@@ -1,4 +1,5 @@
-ist=[]
+#Prompt the user for a list of integers. For all values greater than 100, store ‘over’ instead. 
+list=[]
 n=int(input('Enter the no of elements:'))
 print('Numbers are : \t')
 for i in range(0,n):
