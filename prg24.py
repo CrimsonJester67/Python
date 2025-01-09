@@ -1,3 +1,4 @@
+#Lambda function to find area of square,rectangle,triangle 
 area1=lambda x:x*x
 area2=lambda x,y:x*y
 area3=lambda x,y:0.5*x*y
