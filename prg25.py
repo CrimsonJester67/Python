@@ -1,3 +1,4 @@
+#Create class with attribute name,age,display the name and age of a particular person 
 class person:
     def init (self,name,age):
         self.name=name
